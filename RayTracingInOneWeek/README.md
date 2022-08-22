@@ -3,7 +3,7 @@
 `https://github.com/RayTracing/raytracing.github.io/`
 ---
 # 2.Image Output 
-![Output](https://github.com/eska5/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/ppmExample.png?raw=true)
+![Output](/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/ppmExample.png?raw=true)
 
 
 `inOneWeekend.exe > image.ppm`
@@ -29,7 +29,7 @@ Important steps:
 2. Object collision (with our vectors)
 3. Update colors of the pixels
 
-![Visualization](https://github.com/eska5/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/focalPoint.png?raw=true)
+![Visualization](/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/focalPoint.png?raw=true)
 
 Dictionary:
 - `linear interpolation, linear blend`: method of curve fitting using linear polynomials to construct new data points within the range of a discrete set of known data points.
@@ -45,7 +45,7 @@ The distance from the optical center of a lens or curved mirror to the point whe
 
 `Let’s add a single object to our ray tracer. People often use spheres in ray tracers because calculating whether a ray hits a sphere is pretty straightforward.`
 
-![Visualization](https://github.com/eska5/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/redSphere.png?raw=true)
+![Visualization](/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/redSphere.png?raw=true)
 
 ---
 # 6.Surface Normals and Multiple Objects
@@ -55,14 +55,14 @@ Adding Hittable Class !
 Dictionary:
 - `Normal vector`: In geometry, a normal is an object such as a line, ray, or vector that is perpendicular to a given object.
 
-![Directions](https://github.com/eska5/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/possibleDirections.png?raw=true)
+![Directions](/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/possibleDirections.png?raw=true)
 
 Determining from where the ray comes from is crucial (for objects that render differently on each side)
 
 Added Hittable list and rtweekend !
 
 Hard chapter, so output for comparison:
-![chapter 6 Summary](https://github.com/eska5/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/chapterSixSummary.png?raw=true) 
+![chapter 6 Summary](/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/chapterSixSummary.png?raw=true) 
 
 ---
 # 7.Antialiasing
