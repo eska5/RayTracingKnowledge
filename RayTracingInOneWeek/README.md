@@ -29,7 +29,7 @@ Important steps:
 2. Object collision (with our vectors)
 3. Update colors of the pixels
 
-![Visualization](/RayTracingKnowledge/RayTracingInOneWeek/BasicRayTracer/images/focalPoint.png?raw=true)
+![Visualization](https://github.com/eska5/RayTracingKnowledge/blob/main/RayTracingInOneWeek/BasicRayTracer/images/focalPoint.png?raw=true)
 
 Dictionary:
 - `linear interpolation, linear blend`: method of curve fitting using linear polynomials to construct new data points within the range of a discrete set of known data points.
