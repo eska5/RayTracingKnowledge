@@ -70,7 +70,7 @@ Hard chapter, so output for comparison:
 Dictionary:
 `Anti-aliasing` - may refer to any of a number of techniques to combat the problems of aliasing in a sampled signal such as a digital image or digital audio recording.
 
-![Averaged pixel color](https://github.com/eska5/RayTracingKnowledge/blob/main/RayTracingInOneWeek/BasicRayTracer/images/averagedPixedColor.png?raw=true) 
+![Averaged pixel color](https://github.com/eska5/RayTracingKnowledge/blob/main/RayTracingInOneWeek/BasicRayTracer/images/averagedPixelColor.png?raw=true) 
 
 ![antialiasing](https://github.com/eska5/RayTracingKnowledge/blob/main/RayTracingInOneWeek/BasicRayTracer/images/antiAliasing.png?raw=true) 
 
